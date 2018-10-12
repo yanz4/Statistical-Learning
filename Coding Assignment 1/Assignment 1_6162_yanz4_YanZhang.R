@@ -1,3 +1,14 @@
+#the two-dimensional data X ∈ R2 in each class is generated from a mixture of 10 different bivariate Gaussian distributions with uncorrelated
+#components and different means
+
+#Evaluate the performance (the averaged 0/1 error1) for the following three procedures:
+#• Linear regression with cut-off value 0.5,
+#• kNN classification with k = 1, 3, 5, 7, 11, 21, 31, 45, 69, 101, 151, and
+#• the Bayes rule (assume your know the values of mkl’s and s)
+
+
+
+
 set.seed(6162)
 
 
